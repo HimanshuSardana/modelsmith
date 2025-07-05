@@ -1,0 +1,11 @@
+id,location,size_sqft,bedrooms,bathrooms,year_built,garage,price
+1,Downtown,850,2,1,2005,1,280000
+2,Suburb,1200,3,2,2010,1,340000
+3,Uptown,950,2,1,2000,0,310000
+4,Downtown,1400,3,2,2015,1,400000
+5,Suburb,1600,4,3,2020,2,450000
+6,Uptown,900,2,1,1995,0,290000
+7,Downtown,1000,3,1,2008,1,330000
+8,Suburb,1100,3,2,2012,2,360000
+9,Uptown,1300,3,2,2016,1,390000
+10,Downtown,700,1,1,1990,0,250000
